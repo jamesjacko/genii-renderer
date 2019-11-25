@@ -1,0 +1,91 @@
+{
+    "object": {
+        "size": {
+            "width": 400,
+            "height": 400,
+            "padding": 10
+        },
+        "name": "Student",
+        "groups": [
+            0,
+            1,
+            2
+        ],
+        "values": [
+            {
+                "key": 1,
+                "name": "ICP1002",
+                "value": 1,
+                "group": 0,
+                "color": "#6FD1FF"
+            },
+            {
+                "key": 2,
+                "name": "ICP1015",
+                "value": 0.7,
+                "group": 0,
+                "color": "#CDC978"
+            },
+            {
+                "key": 3,
+                "name": "ICP1016",
+                "value": 0.75,
+                "group": 1,
+                "color": "#95D95B"
+            },
+            {
+                "key": 4,
+                "name": "ICP1002",
+                "value": 0.8,
+                "group": 0,
+                "color": "#FDB67B"
+            },
+            {
+                "key": 5,
+                "name": "ICP1015",
+                "value": 0.5,
+                "group": 0,
+                "color": "#6FD1FF"
+            },
+            {
+                "key": 6,
+                "name": "ICP1016",
+                "value": 0.3,
+                "group": 1,
+                "color": "#CDC978"
+            },
+            {
+                "key": 7,
+                "name": "ICP1015",
+                "value": 0.5,
+                "group": 0,
+                "color": "#6FD1FF"
+            },
+            {
+                "key": 8,
+                "name": "ICP1016",
+                "value": 0.7,
+                "group": 1,
+                "color": "#CDC978"
+            },
+            {
+                "key": 7,
+                "name": "ICP1015",
+                "value": 0.5,
+                "group": 0,
+                "color": "#6FD1FF"
+            },
+            {
+                "key": 8,
+                "name": "ICP1016",
+                "value": 0.7,
+                "group": 1,
+                "color": "#CDC978"
+            }
+        ]
+    },
+    "views": [
+        4,
+        42
+    ]
+}
