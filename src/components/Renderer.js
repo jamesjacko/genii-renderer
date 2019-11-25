@@ -1,7 +1,8 @@
 import React, { Component } from 'react';
 import MURV, { Gene } from 'murv-component';
 import Config from '../data/Config';
-import queryString from 'query-string'
+import queryString from 'query-string';
+import canvg from 'canvg';
 
 class Renderer extends Component {
     constructor(props) {
@@ -38,6 +39,20 @@ class Renderer extends Component {
         this.setState({
             gene: this.gene,
         })
+    }
+
+    componentDidUpdate(){
+        const svg = document.querySelector('.renderer svg');
+        const canvas = document.createElement("canvas");
+        const div = document.createElement("div");
+        canvas.width = svg.clientWidth;
+        canvas.height = svg.clientHeight;
+        svg.parentNode.insertBefore(canvas, svg);
+        svg.parentNode.removeChild(svg);
+        div.appendChild(svg);
+        canvg(canvas, div.innerHTML);
+        var dataURL = canvas.toDataURL();
+        console.log(dataURL)
     }
 
     render() {
