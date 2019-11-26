@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/murvRenderer/precache-manifest.16c9419e7cc672aed5167b61dae32624.js"
+  "/murvRenderer/precache-manifest.24eadafbd622cbcc1f51d86092732597.js"
 );
 
 self.addEventListener('message', (event) => {
