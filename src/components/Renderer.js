@@ -52,7 +52,6 @@ class Renderer extends Component {
         div.appendChild(svg);
         canvg(canvas, div.innerHTML);
         var dataURL = canvas.toDataURL();
-        console.log(dataURL)
     }
 
     render() {
