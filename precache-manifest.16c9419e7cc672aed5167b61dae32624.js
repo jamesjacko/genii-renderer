@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "891635d07c7fc959b3a8a9df7f686531",
+    "revision": "a9bdce54d2642534b868ae6d15095d15",
     "url": "/murvRenderer/index.html"
   },
   {
-    "revision": "f185a6b715470b2400eb",
+    "revision": "a4c917d2e51f9161eeaf",
     "url": "/murvRenderer/static/css/main.73a58b1d.chunk.css"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/murvRenderer/static/js/2.901d6a9f.chunk.js"
   },
   {
-    "revision": "f185a6b715470b2400eb",
-    "url": "/murvRenderer/static/js/main.0ce72b75.chunk.js"
+    "revision": "a4c917d2e51f9161eeaf",
+    "url": "/murvRenderer/static/js/main.4c285e80.chunk.js"
   },
   {
     "revision": "f0e07b99de575adf8c3d",
