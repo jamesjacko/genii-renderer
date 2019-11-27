@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/murvRenderer/static/css/main.73a58b1d.chunk.css",
+    "main.css": "/murvRenderer/static/css/main.dfb04c0c.chunk.css",
     "main.js": "/murvRenderer/static/js/main.c6ad230b.chunk.js",
     "main.js.map": "/murvRenderer/static/js/main.c6ad230b.chunk.js.map",
     "runtime-main.js": "/murvRenderer/static/js/runtime-main.bf15c1d9.js",
@@ -8,16 +8,16 @@
     "static/js/2.f8ab9d8c.chunk.js": "/murvRenderer/static/js/2.f8ab9d8c.chunk.js",
     "static/js/2.f8ab9d8c.chunk.js.map": "/murvRenderer/static/js/2.f8ab9d8c.chunk.js.map",
     "index.html": "/murvRenderer/index.html",
-    "precache-manifest.fcc6ea3ff7e41966da373c6f2bb3d137.js": "/murvRenderer/precache-manifest.fcc6ea3ff7e41966da373c6f2bb3d137.js",
+    "precache-manifest.e7e32ac03ab7f17d78579844ac375a57.js": "/murvRenderer/precache-manifest.e7e32ac03ab7f17d78579844ac375a57.js",
     "service-worker.js": "/murvRenderer/service-worker.js",
-    "static/css/main.73a58b1d.chunk.css.map": "/murvRenderer/static/css/main.73a58b1d.chunk.css.map",
+    "static/css/main.dfb04c0c.chunk.css.map": "/murvRenderer/static/css/main.dfb04c0c.chunk.css.map",
     "static/media/logo.svg": "/murvRenderer/static/media/logo.25bf045c.svg",
     "static/media/watch.png": "/murvRenderer/static/media/watch.c0f5684c.png"
   },
   "entrypoints": [
     "static/js/runtime-main.bf15c1d9.js",
     "static/js/2.f8ab9d8c.chunk.js",
-    "static/css/main.73a58b1d.chunk.css",
+    "static/css/main.dfb04c0c.chunk.css",
     "static/js/main.c6ad230b.chunk.js"
   ]
 }
