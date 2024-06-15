@@ -1,5 +1,5 @@
 import React, { Component } from 'react';
-import MURV, { Gene } from 'murv-component';
+import GENII, { Gene } from 'genii-component';
 import Config from '../data/Config';
 import queryString from 'query-string';
 import canvg from 'canvg';
@@ -59,7 +59,7 @@ class Renderer extends Component {
             <div>
                 {this.state === null ? "" : (
                     <div className="renderer">
-                        <MURV config={Config} gene={this.state.gene} />
+                        <GENII config={Config} gene={this.state.gene} />
                     </div>
                 )
                 }
